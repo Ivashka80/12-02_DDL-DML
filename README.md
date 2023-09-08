@@ -22,13 +22,23 @@
 ### Задание 1
 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
 
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/adfd9655-f80e-4bd7-af49-c02344cdc40c)
+
 1.2. Создайте учётную запись sys_temp. 
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/3f2ec701-03b9-43ec-929c-3d8240b3a496)
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/e3cc214f-5390-45ab-80a4-eac4e61b4b05)
+
 1.4. Дайте все права для пользователя sys_temp. 
 
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/91001257-f144-4bc1-9c92-abdd6016efef)
+
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/8e670787-4fe3-4baa-a9f4-a87438426053)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
