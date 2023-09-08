@@ -52,7 +52,17 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.7. Восстановите дамп в базу данных.
 
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/226380f2-c701-4e96-bad9-da244e032c0c)
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/33c0fb5c-0cd6-43e6-a045-fbc3efc3641e)
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/065c9c7a-446f-41ee-83ad-86d77e760a40)
+
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/e0d9d794-3a87-4879-9ba0-cd793ea0cfb0)
+
+![image](https://github.com/Ivashka80/12-02_DDL-DML/assets/121082757/5262021f-3b97-42f9-9961-36adde9643ad)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
